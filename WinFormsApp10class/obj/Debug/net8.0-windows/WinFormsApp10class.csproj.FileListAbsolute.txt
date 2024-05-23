@@ -1,0 +1,16 @@
+D:\cs_work\WinFormsApp10class\bin\Debug\net8.0-windows\WinFormsApp10class.exe
+D:\cs_work\WinFormsApp10class\bin\Debug\net8.0-windows\WinFormsApp10class.deps.json
+D:\cs_work\WinFormsApp10class\bin\Debug\net8.0-windows\WinFormsApp10class.runtimeconfig.json
+D:\cs_work\WinFormsApp10class\bin\Debug\net8.0-windows\WinFormsApp10class.dll
+D:\cs_work\WinFormsApp10class\bin\Debug\net8.0-windows\WinFormsApp10class.pdb
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.csproj.GenerateResource.cache
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.AssemblyInfoInputs.cache
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.AssemblyInfo.cs
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.csproj.CoreCompileInputs.cache
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.dll
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\refint\WinFormsApp10class.dll
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.pdb
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.genruntimeconfig.cache
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\ref\WinFormsApp10class.dll
+D:\cs_work\WinFormsApp10class\obj\Debug\net8.0-windows\WinFormsApp10class.Car.resources

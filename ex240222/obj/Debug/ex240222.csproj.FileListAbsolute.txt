@@ -1,0 +1,10 @@
+D:\cs_work\ex240222\bin\Debug\ex240222.exe.config
+D:\cs_work\ex240222\bin\Debug\ex240222.exe
+D:\cs_work\ex240222\bin\Debug\ex240222.pdb
+D:\cs_work\ex240222\obj\Debug\ex240222.csproj.AssemblyReference.cache
+D:\cs_work\ex240222\obj\Debug\ex240222.Form1.resources
+D:\cs_work\ex240222\obj\Debug\ex240222.Properties.Resources.resources
+D:\cs_work\ex240222\obj\Debug\ex240222.csproj.GenerateResource.cache
+D:\cs_work\ex240222\obj\Debug\ex240222.csproj.CoreCompileInputs.cache
+D:\cs_work\ex240222\obj\Debug\ex240222.exe
+D:\cs_work\ex240222\obj\Debug\ex240222.pdb

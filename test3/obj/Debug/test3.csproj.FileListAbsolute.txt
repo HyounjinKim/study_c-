@@ -1,0 +1,10 @@
+D:\cs_work\test3\bin\Debug\test3.exe.config
+D:\cs_work\test3\bin\Debug\test3.exe
+D:\cs_work\test3\bin\Debug\test3.pdb
+D:\cs_work\test3\obj\Debug\test3.csproj.AssemblyReference.cache
+D:\cs_work\test3\obj\Debug\test3.Form1.resources
+D:\cs_work\test3\obj\Debug\test3.Properties.Resources.resources
+D:\cs_work\test3\obj\Debug\test3.csproj.GenerateResource.cache
+D:\cs_work\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+D:\cs_work\test3\obj\Debug\test3.exe
+D:\cs_work\test3\obj\Debug\test3.pdb

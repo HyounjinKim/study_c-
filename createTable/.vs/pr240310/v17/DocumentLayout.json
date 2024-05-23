@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_work\\createTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|D:\\c#_work\\createTable\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|d:\\c#_work\\createtable\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|solutionrelative:createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|D:\\c#_work\\createTable\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|solutionrelative:createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|D:\\c#_work\\createTable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|D:\\c#_work\\createTable\\timetableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA548A-0961-4C2E-958A-A42FE8BD980D}|pr240310.csproj|solutionrelative:timetableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_work\\createTable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#_work\\createTable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:47:58.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTimeTable.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#_work\\createTable\\CreateTimeTable.cs",
+              "RelativeDocumentMoniker": "CreateTimeTable.cs",
+              "ToolTip": "D:\\c#_work\\createTable\\CreateTimeTable.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "CreateTimeTable.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:22:22.899Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeTableInfo.cs",
+              "DocumentMoniker": "D:\\c#_work\\createTable\\TimeTableInfo.cs",
+              "RelativeDocumentMoniker": "TimeTableInfo.cs",
+              "ToolTip": "D:\\c#_work\\createTable\\TimeTableInfo.cs",
+              "RelativeToolTip": "TimeTableInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:02:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTimeTable.cs",
+              "DocumentMoniker": "D:\\c#_work\\createTable\\CreateTimeTable.cs",
+              "RelativeDocumentMoniker": "CreateTimeTable.cs",
+              "ToolTip": "D:\\c#_work\\createTable\\CreateTimeTable.cs",
+              "RelativeToolTip": "CreateTimeTable.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCYBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T04:17:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\c#_work\\createTable\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\c#_work\\createTable\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T04:10:37.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

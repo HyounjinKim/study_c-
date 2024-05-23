@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_work\\shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|d:\\c#_work\\shop\\allfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:allfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|D:\\c#_work\\shop\\shopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:shopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|D:\\c#_work\\shop\\allfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:allfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|D:\\c#_work\\shop\\allfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:allfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|D:\\c#_work\\shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|D:\\c#_work\\shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2025EB61-12DF-4EBB-B77B-2034399315C2}|shop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#_work\\shop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#_work\\shop\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:36:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopDB.cs",
+              "DocumentMoniker": "D:\\c#_work\\shop\\ShopDB.cs",
+              "RelativeDocumentMoniker": "ShopDB.cs",
+              "ToolTip": "D:\\c#_work\\shop\\ShopDB.cs",
+              "RelativeToolTip": "ShopDB.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:53:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllFood.Designer.cs",
+              "DocumentMoniker": "D:\\c#_work\\shop\\AllFood.Designer.cs",
+              "RelativeDocumentMoniker": "AllFood.Designer.cs",
+              "ToolTip": "D:\\c#_work\\shop\\AllFood.Designer.cs",
+              "RelativeToolTip": "AllFood.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:34:35.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllFood.cs",
+              "DocumentMoniker": "D:\\c#_work\\shop\\AllFood.cs",
+              "RelativeDocumentMoniker": "AllFood.cs",
+              "ToolTip": "D:\\c#_work\\shop\\AllFood.cs",
+              "RelativeToolTip": "AllFood.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAgwK0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:33:45.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllFood.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#_work\\shop\\AllFood.cs",
+              "RelativeDocumentMoniker": "AllFood.cs",
+              "ToolTip": "D:\\c#_work\\shop\\AllFood.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AllFood.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:28:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#_work\\shop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#_work\\shop\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:50:01.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
